@@ -1,5 +1,10 @@
-# Todo Grown — Privacy Policy
+# App Privacy Policies (GitHub Pages)
 
-Public GitHub Pages site for the Todo Grown privacy policy (Play Console URL).
+Play Console용 개인정보처리방침 모음입니다.
 
-**Live URL:** https://tjsdnd02.github.io/todo-grown-privacy/
+## Live URLs
+
+| 앱 | URL |
+|---|---|
+| Todo Grown | https://tjsdnd02.github.io/todo-grown-privacy/ |
+| 내 근처에 뭐가 있지? (matjido) | https://tjsdnd02.github.io/todo-grown-privacy/matjido/ |
