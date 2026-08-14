@@ -1,6 +1,6 @@
 # App Privacy Policies (GitHub Pages)
 
-Play Console용 개인정보처리방침 모음입니다.
+Play Console용 개인정보처리방침 페이지입니다. 앱마다 독립된 URL을 사용합니다.
 
 ## Live URLs
 
